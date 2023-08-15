@@ -1,0 +1,5 @@
+{{#user}
+Name: Rakshith B G
+Skills: C Programming,Python,HTML, CSS, JavaScript,React.js,ExpressJs,NodeJS,MERN Stack,Mongo DB,MySql
+Email: bgrakshith5@gmail.com
+{{/user}}
